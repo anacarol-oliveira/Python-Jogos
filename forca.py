@@ -36,7 +36,7 @@ def jogar():
 
 def inicializacao():
     print("*********************************")
-    print("***Bem vindo ao jogo da Forca!***")
+    print("***Bem vindo ao jogo da Forcas!***")
     print("*********************************")
 
 def desenha_forca(erros):
